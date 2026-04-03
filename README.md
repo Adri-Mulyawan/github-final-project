@@ -21,3 +21,4 @@ Run the script using:
 ```bash
 bash simple-interest.sh
 ```
+This project is maintained by Adri-Mulyawan
